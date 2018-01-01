@@ -16,3 +16,4 @@ seed for the Full-Stack IOT training project: car-tracker
 * Java
 * Spring MVC
 * MySQL
+* REST API
