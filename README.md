@@ -11,8 +11,3 @@ seed for the Full-Stack IOT training project: car-tracker
 
 ## requirements:
 [https://learn.egen.io](https://learn.egen.io/courses/overview.html)
-
-## technologies:
-* Java
-* Spring MVC
-* MySQL
