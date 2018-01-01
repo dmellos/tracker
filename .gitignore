@@ -1,0 +1,9 @@
+.idea/
+.project
+.settings
+target
+output
+build
+classes
+WebContent
+src/main/webapp
